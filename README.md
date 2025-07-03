@@ -1,26 +1,32 @@
-![thumbnail-Desafio Java (1)](https://github.com/jacqueline-oliveira/3356-java-desafio-front/assets/66698429/6f1cf2db-ca91-493b-b37c-2c08ad2afc50)
 
-# Front-end da aplicação: Frases clássicas de filmes e séries ScreenMatch
 
-Essa é a aplicação Front-end que será utilizada no desafio proposto na última aula do curso.
+# ScreenMatch • Frases Clássicas de Filmes e Séries
 
-Para visualizar a mesma, após o download ou clone do projeto, abra-a com o VS Code
+Sobre
 
-Caso não possua, instale a extensão *Live Server*.
-
-Feito isso, clique com o botão direito no arquivo **index.html** e escolha "Open with Live Server".
-
-A princípio, caso a sua API ainda não esteja desenvolvida, o conteúdo que você verá será esse abaixo:
+Este repositório apresenta a solução para o desafio prático da última aula do curso Java + Spring Boot – ScreenMatch da Alura. A proposta consistia em consumir a API desenvolvida no módulo back‑end e exibir, no front‑end, uma lista de frases clássicas de filmes e séries com avaliação e informações complementares.
 
 
 ![image](https://github.com/jacqueline-oliveira/3356-java-desafio-front/assets/66698429/4b612a93-09d8-4376-8c30-8b18fbecd2fc)
 
 
 
-Após a finalização do desafio, seu projeto estará completo e a aplicação irá mostrar os dados, de forma similar à abaixo:
-
-
 ![image](https://github.com/jacqueline-oliveira/3356-java-desafio-front/assets/66698429/bbd2799d-1360-4f0d-9330-f3a002c1a8c4)
 
 
-# Bom desafio!
+# Tecnologias aplicadas
+
+- HTML5 & CSS3
+- JavaScript (ES6)
+- Extensão Live Server (hot‑reload)
+- Fetch API para requisições HTTP
+
+# Como rodar localmente
+
+Clone este repositório:
+git clone https://github.com/seu-usuario/screenmatch-quotes-front.git
+
+- Abra a pasta no VS Code.
+- Instale/ative a extensão Live Server.
+- Garanta que a API do back-end(https://github.com/LoureiroBruno/frases_de_filmes_back_end) esteja rodando em http://localhost:8080.
+- Clique com o botão direito em index.html → Open with Live Server.
